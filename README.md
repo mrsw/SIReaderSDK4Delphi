@@ -1,2 +1,2 @@
-# SIScreenReaderSDK4Delphi
+# SIScreenReader4Delphi
 Porting of the ScreenItalia Screen Reader SDK to Delphi
